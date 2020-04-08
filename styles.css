@@ -1,0 +1,79 @@
+/* Fonts */
+/*
+font-family: 'Baloo Thambi 2', cursive;
+font-family: 'Acme', sans-serif;
+
+*/
+/* Colors */
+/*
+yellow: #F9ED69;
+orange: #F08A5D;
+Maroon: #B83B5E;
+Purple: #6a2c70;
+*/
+.container {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.button-container {
+  padding: 0% 5%;
+}
+
+.bilde {
+  width: 200px;
+  height: auto;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+#btn {
+  height: 30px;
+}
+
+#number {
+  color:#6a2c70;
+  font-size: 8rem;
+}
+
+
+/* Main elements */
+body {
+  background-color: #F9ED69;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #B83B5E;
+  font-family: 'Baloo Thambi 2', cursive;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Acme', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #F08A5D;
+  display: inline-block;
+}
+
+
+p {
+  font-size: 2rem;
+  color: #B83B5E;
+  font-family: 'Baloo Thambi 2', cursive;
+}
+
+footer {
+  margin-top: 5%;
+  color: #6a2c70;
+  text-align: center;
+  font-family: 'Baloo Thambi 2', cursive;
+}
